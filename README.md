@@ -51,6 +51,7 @@ The front end of this appliaction is developed using Angular framework:
 Run the following commands to get started:
 
 > npm install
+
 > npm start
 
 ### Front-end UI sample
