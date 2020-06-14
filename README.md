@@ -33,6 +33,10 @@ The address information of a customer is maintained in the **Customer_address** 
 | Country | contains the country | Varchar | 
 | Zip | contians the 6 digit postal code for the address | Varchar | 
 
+## Database Mapping
+
+
+
 ## Stored procedure that displays all customer information
 
 The developed stored procedure will retain the complete customer information for the submitted customer's id.
