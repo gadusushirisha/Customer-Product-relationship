@@ -20,16 +20,16 @@ The developed [stored procedure](./Stored-procedure.sql) will retain the complet
 
 ## Web API using MVC layout 
 
-The developed MVC layout will display the customer information using the API end point with the input as customer id and returns the customer's information.
+The developed web API will return the customer information using the API end point with the input as customer id.
 
-* The API endpoint information is stored in the following file: [Customer API](./CustomerAPI.rar)
+* The web API code is stored in the following file: [Customer API](./CustomerAPI.rar)
 * The following file contains the database back up: [Sample.bak](./Sample.bak)
 
 *Note:* Please unzip the files as they are zipped in rar. 
 
 ## Angular application information
 
-The front end of this appliaction is developed using Angular framework. The file are located
+The front end of this appliaction is developed using Angular framework. The file are located: [AngularProject.rar](./AngularProject.rar)
 
 Run the following commands to get started:
 
