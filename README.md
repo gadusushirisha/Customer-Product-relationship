@@ -43,3 +43,21 @@ The developed [stored procedure](./Stored-procedure.sql) will retain the complet
 ## Creating a MVC layout 
 
 The developed MVC layout will display the customer information using the API end point with the input as customer id and returns the customer's information.
+
+## Angular application information
+## Run these commands to get started:
+
+npm install
+npm start
+
+## Notes
+1. When the application is loaded, the intiitilpage would be app component which displays an input field so that user can enter customer ID into the input box.
+2. Clicking on Submit button below would navigate him to URL "/customer/id" which is configured using angular routing (routerLink concept). Code availabe in "core module" file.
+3. "customer.page.ts" file makes use of the activated route concept to fetch/map the "id" from URL and passes it to service to fetch data for that particular customer.
+4. The service "customer.service.ts" will hit the "customer/:id" endpoint and returns the json value of customer data as an observable.(using rxjs observable conept in angular).
+5. This navigates the user to a customer details page where all the details of customer such as first name, last name, address, etc. are displayed.
+
+6. This is an MVC design pattern implemented in Angular framework where "customer.model.ts" file behaves as Model, "customer.page.html" is our View, and "customer.service.ts" is our Controller.
+
+
+
