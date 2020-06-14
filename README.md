@@ -56,10 +56,13 @@ Run the following commands to get started:
 ### Front-end UI sample
 
 Initialize the web page for a customer to enter their Customer ID: `1`
+
 ![Customer_id](./Customer_id.png)
 
 Click on `Submit`.
-[Customer_details](./Customer_details.png)
+
+![Customer_details](./Customer_details.png)
+
 On submitting the ID, the customer details page is displayed where the customer information for the respective Customer ID is displayed:
 
 ### How does this application run ?
