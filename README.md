@@ -35,7 +35,7 @@ The address information of a customer is maintained in the **Customer_address** 
 
 ## Database Mapping
 
-
+![Mapping-tables](/Mapping-tables.PNG)
 
 ## Stored procedure that displays all customer information
 
