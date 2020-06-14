@@ -30,6 +30,7 @@ The developed web API will return the customer information using the API end poi
 ## Angular application information
 
 The front end of this appliaction is developed using Angular framework. The file are located: [AngularProject.rar](./AngularProject.rar)
+This angular application calls the above web API by passing the customer id and rendering to view the customer information.
 
 Run the following commands to get started:
 
