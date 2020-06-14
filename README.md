@@ -45,7 +45,7 @@ Click on `Submit`.
 
 On submitting the ID, the customer details page is displayed where the customer information for the respective Customer ID is displayed:
 
-### How does this application run ?
+### Steps to run this application
 
 Run the following commands to get started:
 
