@@ -18,14 +18,14 @@ Creating the following two tables for handling the customer information:
 
 The developed [stored procedure](./Stored-procedure.sql) will retain the complete customer information for the submitted customer's id.
 
+## Web API using MVC layout 
+
+The developed MVC layout will display the customer information using the API end point with the input as customer id and returns the customer's information.
+
 * The API endpoint information is stored in the following file: [Customer API](./CustomerAPI.rar)
 * The following file contains the database back up: [Sample.bak](./Sample.bak)
 
 *Note:* Please unzip the files as they are zipped in rar. 
-
-## Creating a MVC layout 
-
-The developed MVC layout will display the customer information using the API end point with the input as customer id and returns the customer's information.
 
 ## Angular application information
 
