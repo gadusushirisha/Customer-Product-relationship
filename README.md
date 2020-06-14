@@ -40,13 +40,15 @@ The address information of a customer is maintained in the **Customer_Address** 
 
 The developed [stored procedure](./Stored-procedure.sql) will retain the complete customer information for the submitted customer's id.
 
+The API information is stored in the following file: [Customer API](Customer.API)
+
 ## Creating a MVC layout 
 
 The developed MVC layout will display the customer information using the API end point with the input as customer id and returns the customer's information.
 
 ## Angular application information
 
-The front end of this appliaction is developed using Angular framework:
+The front end of this appliaction is developed using Angular framework. The file are located
 
 Run the following commands to get started:
 
