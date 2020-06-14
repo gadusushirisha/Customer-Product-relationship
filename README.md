@@ -29,8 +29,7 @@ The address information of a customer is maintained in the **Customer_address** 
 | Address_line1  | contains the address line 1 | Varchar | 
 | Address_line2 | contains the address line 2 | Varchar | 
 | City   | contains the city information | Varchar | 
-| Province    | contains the province inforamtion | Varchar | 
-| Country | contains the country | Varchar | 
+| State    | contains the province inforamtion | Varchar | 
 | Zip | contians the 6 digit postal code for the address | Varchar | 
 
 ## Database Mapping
