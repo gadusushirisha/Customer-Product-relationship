@@ -40,7 +40,10 @@ The address information of a customer is maintained in the **Customer_Address** 
 
 The developed [stored procedure](./Stored-procedure.sql) will retain the complete customer information for the submitted customer's id.
 
-The API information is stored in the following file: [Customer API](Customer.API)
+* The API information is stored in the following file: [Customer API](./CustomerAPI.rar)
+* The following file contains the database back up: [Sample.bak](./Sample.bak)
+
+*Note:* Please unzip the files as they are zipped in rar. 
 
 ## Creating a MVC layout 
 
