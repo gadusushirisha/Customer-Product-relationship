@@ -38,7 +38,7 @@ The address information of a customer is maintained in the **Customer_Address** 
 
 ## Stored procedure that displays all customer information
 
-The developed stored procedure will retain the complete customer information for the submitted customer's id.
+The developed [stored procedure](./Stored-procedure.sql) will retain the complete customer information for the submitted customer's id.
 
 ## Creating a MVC layout 
 
