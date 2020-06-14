@@ -33,12 +33,6 @@ The front end of this appliaction is developed using Angular framework. The file
 
 This angular application calls the above web API by passing the customer id and rendering the customer information to view.
 
-Run the following commands to get started:
-
-> npm install
-
-> npm start
-
 ### Front-end UI sample
 
 Initialize the web page for a customer to enter their Customer ID: `1`
@@ -52,6 +46,12 @@ Click on `Submit`.
 On submitting the ID, the customer details page is displayed where the customer information for the respective Customer ID is displayed:
 
 ### How does this application run ?
+
+Run the following commands to get started:
+
+> npm install
+
+> npm start
 
 1. Once the application is loaded, the initial page would be app component which displays an input field so that user can enter Customer ID into the input box.
 2. Clicking on `Submit` button below would navigate him to URL "/customer/id" which is configured using angular routing (routerLink concept). This code is availabe in "core module" file.
