@@ -8,7 +8,7 @@ Creating the following two tables for handling the customer information:
 
 ### Table 1 contains the login information
 
-The Login information of a customer is maintained in the **Customer** table below.
+The information of a customer is maintained in the **Customer** table below.
 
 | **Column&nbsp;name** | **Description** | **Field&nbsp;type** | 
 | -------------------- | --------------- | -------------- | 
