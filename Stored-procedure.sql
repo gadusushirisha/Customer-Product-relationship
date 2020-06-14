@@ -1,3 +1,5 @@
+/* The below stored procedure will help to retain the cusomters information using customer id */
+
 CREATE PROCEDURE [dbo].[GetCustomerDetails]
       (@Id int)
  AS
